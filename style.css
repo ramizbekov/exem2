@@ -1,0 +1,186 @@
+
+.section{
+     width: 1122px;
+height: 299;
+top: 4px;
+left: 156.27px;
+margin: 0 auto;
+
+}
+
+.input{
+    width: 150px;
+height: 39;
+top: 348px;
+left: 432px;
+border-radius: 5px;
+background-color:  #FFFFFF;
+;
+}
+
+
+.select2{
+    width: 1440px;
+height: 40px;
+display: flex;
+justify-content: center;
+gap: 30px;
+margin-top: 30px;
+
+
+}
+
+.xzz{
+    width: 100px;
+height: 39;
+top: 347px;
+left: 656px;
+border-radius: 5px;
+
+}
+.xzz2{
+    width: 101px;
+height: 39;
+border-radius: 5px;
+
+}
+.xzz3{
+    width: 70px;
+height: 39;
+border-radius: 5px;
+background-color: #D9534F;
+
+}
+.main{
+    background-color: #2A2A2A;
+    height:427px;
+    
+}
+.card{
+    width: 244px;
+height: 600;
+top: 20px;
+left: 20px;
+border-radius: 10px;
+background-color:  #333333;
+
+
+}
+.bxx{
+    margin: 0 auto;
+    width: 214px;
+    height: 146;
+    top: 15px;
+    left: 15px;
+    border-radius: 10px;
+
+}
+.vxx{
+    width: 100px;
+    height: 100px;
+    color: white;
+}
+.button{
+    width: 75px;
+height: 40px;
+top: 315px;
+left: 84.22px;
+border-radius: 5px;
+background-color: #5CB85C;
+display: flex;
+align-items: center;
+margin: 0 auto;
+}
+
+.p1{
+    width: 22.px;
+height: 17;
+top: 217px;
+left: 27.67px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.xss{
+    /* width: 23px;
+height: 17px;
+top: 217px;
+left: 27.67px; */
+display: flex;
+width: 200px;
+
+}
+
+.xz{
+    display: flex;
+    align-items: center;
+    width: 200px;
+    gap: 30px;
+    margin-left: 29px;
+ 
+}
+.new{
+    margin-left: 80px;
+    width: 70px;
+}
+
+.p2{
+    text-align: center;
+    width: 140px;
+    margin-left: 45px;
+}
+.karobka{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-top: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
+.korobka{
+    width: 1440px;
+    border: 2px solid red;
+    margin: 0 auto;
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding-top: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+   
+}
+
+.card{
+    width: 244px;
+    height: 368px;
+    background-color:  #333333;
+    text-align: center;
+    color: white;
+    padding-top: 15px;
+
+}
+
+.card h2{
+    font-weight: 700;
+    font-size: 18.7px;
+    margin-top: 24px;
+}
+.card p{
+    margin: 11px;
+    font-weight: 400;
+    font-size: 16px;
+}
+.button{
+    width: 75px;
+height: 35px;
+top: 315px;
+left: 84.22px;
+border-radius: 5px;
+color: white;
+background-color:#5CB85C
+
+}
